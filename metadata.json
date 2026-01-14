@@ -1,0 +1,5 @@
+{
+  "name": "A-Share Prophet AI",
+  "description": "An intelligent AI tool that analyzes daily A-share market news and institutional commentary to provide trend predictions for the next trading day.",
+  "requestFramePermissions": []
+}
